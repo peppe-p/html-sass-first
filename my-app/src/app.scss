@@ -1,6 +1,21 @@
 /* Variabili SASS */
+$primary: #28cf3e;
+$secondary: #ffbd2d;
+$dark: #1f1f1f;
+$dark_light: #3b3b3b;
 
+$padding_preset: 20px;
 
 body {
-    background-color: rgb(31, 31, 31);
+    background-color: $dark;
+    color: $primary;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: $dark_light;
+    border: 2px solid $secondary;
+    color: $primary;
+    padding: $padding_preset;
+    font-size: 1rem;
 }

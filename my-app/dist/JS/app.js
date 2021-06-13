@@ -7,7 +7,7 @@
   \********************/
 /***/ (() => {
 
-alert("Questa è un'allerta");
+alert("Questa è un'allerta di prova");
 
 /***/ }),
 

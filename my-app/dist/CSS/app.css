@@ -1,3 +1,14 @@
+/* Variabili SASS */
 body {
   background-color: #1f1f1f;
+  color: #28cf3e;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  background-color: #3b3b3b;
+  border: 2px solid #ffbd2d;
+  color: #28cf3e;
+  padding: 20px;
+  font-size: 1rem;
 }
